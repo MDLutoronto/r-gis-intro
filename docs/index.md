@@ -5,6 +5,11 @@ description: "This tutorial is a beginner friendly introduction to work with GIS
 staff:
     - name: Nadia Muhe
       link: https://library.utoronto.ca/staff/nadia-muhe
+maintainer:
+ - name: Nadia Muhe
+   link: https://library.utoronto.ca/staff/nadia-muhe
+ - name: Cole White
+   link: https://library.utoronto.ca/staff/cole-white
 created_date: 2024-09-19
 permalink: "/"  #! Remove this if not the homepage
 ---
