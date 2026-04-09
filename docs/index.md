@@ -493,5 +493,3 @@ ggplot() +
  line_col = "grey20"))
 ```
 <img src='{{ '/assets/images/6.4%20Choropleth.png' | relative_url }}' alt='6.4 Choropleth' title='' width='718' height='483' />
-
-Technique: [Quantitative Data Analysis](https://mdl.library.utoronto.ca/technique/quantitative-data-analysis), [Mapping](https://mdl.library.utoronto.ca/technique/mapping), [Spatial Analysis](https://mdl.library.utoronto.ca/technique/spatial-analysis) | Tools: [R](https://mdl.library.utoronto.ca/tools/r-0) | Data Format: [Microdata](https://mdl.library.utoronto.ca/data-format-tutorials/microdata)
