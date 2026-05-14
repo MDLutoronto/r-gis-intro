@@ -2,6 +2,15 @@
 title: Point Features
 parent: Introduction to GIS using R
 layout: default
+staff:
+    - name: Nadia Muhe
+      link: https://library.utoronto.ca/staff/nadia-muhe
+maintainer: 
+    - name: Nadia Muhe
+      link: https://library.utoronto.ca/staff/nadia-muhe
+    - name: Cole White
+      link: https://library.utoronto.ca/staff/cole-white
+created_date: 2024-09-19
 nav_order: 2
 ---
 
@@ -45,3 +54,5 @@ We can make a map of these museums using ggplot2 functions. To make a basic map,
 ggplot() + geom_sf(data=museums_sf)
 ```
 <img src='{{ '/assets/images/1.3%20Museums%20Map.png' | relative_url }}' alt='1.3 Museums Map' title='' width='708' height='516' />
+
+**Technique:** [Quantitative Data Analysis](https://mdlutoronto.github.io/tutorials-search/?technique=Qualitative+Data+Analysis), [Mapping](https://mdlutoronto.github.io/tutorials-search/?technique=Mapping), [Spatial Analysis](https://mdlutoronto.github.io/tutorials-search/?technique=Spatial+Analysis) \| **Tools:** [R](https://mdlutoronto.github.io/tutorials-search/?tool=R) \| **Data Format:** [Microdata](https://mdlutoronto.github.io/tutorials-search/?dataFormat=Microdata)

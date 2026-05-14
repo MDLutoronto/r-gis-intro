@@ -2,6 +2,15 @@
 title: Polygon Features
 parent: Introduction to GIS using R
 layout: default
+staff:
+    - name: Nadia Muhe
+      link: https://library.utoronto.ca/staff/nadia-muhe
+maintainer: 
+    - name: Nadia Muhe
+      link: https://library.utoronto.ca/staff/nadia-muhe
+    - name: Cole White
+      link: https://library.utoronto.ca/staff/cole-white
+created_date: 2024-09-19
 nav_order: 4
 ---
 
@@ -39,3 +48,5 @@ culturalhotspots_sf <- read_sf('points-of-interest - 4326.shp')
 culturalhotspots_sf
 ```
 <img src='{{ '/assets/images/3.3%20Cultural%20Hot%20Spots%20in%20Toronto%20Neighbourhoods_0.png' | relative_url }}' alt='3.3 Cultural Hot Spots in Toronto Neighbourhoods' title='' width='711' height='427' />
+
+**Technique:** [Quantitative Data Analysis](https://mdlutoronto.github.io/tutorials-search/?technique=Qualitative+Data+Analysis), [Mapping](https://mdlutoronto.github.io/tutorials-search/?technique=Mapping), [Spatial Analysis](https://mdlutoronto.github.io/tutorials-search/?technique=Spatial+Analysis) \| **Tools:** [R](https://mdlutoronto.github.io/tutorials-search/?tool=R) \| **Data Format:** [Microdata](https://mdlutoronto.github.io/tutorials-search/?dataFormat=Microdata)

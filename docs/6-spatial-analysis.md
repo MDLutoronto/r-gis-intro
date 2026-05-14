@@ -2,6 +2,15 @@
 title: Spatial Analysis
 parent: Introduction to GIS using R
 layout: default
+staff:
+    - name: Nadia Muhe
+      link: https://library.utoronto.ca/staff/nadia-muhe
+maintainer: 
+    - name: Nadia Muhe
+      link: https://library.utoronto.ca/staff/nadia-muhe
+    - name: Cole White
+      link: https://library.utoronto.ca/staff/cole-white
+created_date: 2024-09-19
 nav_order: 6
 ---
 
@@ -109,3 +118,5 @@ We save this number as a new field in the neighbourhoods_sf dataset and name it 
 # Store number as a new variable
 neighbourhoods_sf$counthotspots <- lengths(st_intersects(neighbourhoods_sf, culturalhotspots_sf))
 ```
+
+**Technique:** [Quantitative Data Analysis](https://mdlutoronto.github.io/tutorials-search/?technique=Qualitative+Data+Analysis), [Mapping](https://mdlutoronto.github.io/tutorials-search/?technique=Mapping), [Spatial Analysis](https://mdlutoronto.github.io/tutorials-search/?technique=Spatial+Analysis) \| **Tools:** [R](https://mdlutoronto.github.io/tutorials-search/?tool=R) \| **Data Format:** [Microdata](https://mdlutoronto.github.io/tutorials-search/?dataFormat=Microdata)
