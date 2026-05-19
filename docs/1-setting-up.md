@@ -2,6 +2,15 @@
 title: Setting Up
 parent: Introduction to GIS using R
 layout: default
+staff:
+    - name: Nadia Muhe
+      link: https://library.utoronto.ca/staff/nadia-muhe
+maintainer: 
+    - name: Nadia Muhe
+      link: https://library.utoronto.ca/staff/nadia-muhe
+    - name: Cole White
+      link: https://library.utoronto.ca/staff/cole-white
+created_date: 2024-09-19
 nav_order: 1
 ---
 
@@ -23,3 +32,4 @@ library(ggplot2)
 library(ggspatial)
 library(RColorBrewer)
 ```
+**Technique:** [Quantitative Data Analysis](https://mdlutoronto.github.io/tutorials-search/?technique=Qualitative+Data+Analysis), [Mapping](https://mdlutoronto.github.io/tutorials-search/?technique=Mapping), [Spatial Analysis](https://mdlutoronto.github.io/tutorials-search/?technique=Spatial+Analysis) \| **Tools:** [R](https://mdlutoronto.github.io/tutorials-search/?tool=R) \| **Data Format:** [Microdata](https://mdlutoronto.github.io/tutorials-search/?dataFormat=Microdata)
